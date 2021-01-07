@@ -1,6 +1,6 @@
-# Data Generator
+# Test Data
 
-An example of a data generator, customized to a specific use case
+Sample test datasets used in validating the proximity platform
 
 ## LICENSE
 MIT
